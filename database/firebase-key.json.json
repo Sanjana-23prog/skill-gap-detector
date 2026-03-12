@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skill-gap-detector",
+  "private_key_id": "668a1df27035a6726eb4eb2d6432208af6f806d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgzSnkYTBBbrWU\ngFIcNdLj4/8GUaCPQ8KH/7L+mNg/jJLISTDfY1PIMEfPS6//xrRMNqPe+qmplW56\n6K7rxr8gGSyDqmpd01b/CNA9A5kcrCcrlJLUFwRW5q5Sx/8qlYzIRSiUdFUXP+Zj\nbHotKiNqhu9I0OYN92JOmziRtQlvanlDBT/E05tTv+LG4yzZNLpHnENXB7kmaMJJ\njI14YNcp+bYMcGvFv0xsbsgSC08St19o1b+dZ820mcf6519DoWJRS0xrh+Dm4SIh\naZSo5wQm+/LjN6l11VfZdQLGnkQ6bsTN+vvMmbDWQULl//lxHIdgryOr4972/Pxl\nWzbCohnVAgMBAAECggEAA+2p5f8JyhbubuQoKyyInSlij0B1axN+zoQaI2dV3hRt\nizj2NO0mLWkklBuJPZHCHFPXHMIqHVfKaLTwu5eLRvsRo1JizfVvv4CurOZHcnAS\ntikAQNsPHRqmYLV0gNDAt044FZIL255m/wVKBEiIemfVviLCZmuUiPWe8TLl8Y+1\nHQtFTiyoLXWwqpGBN38jCrGfY0YjdKysF++QHkzv9F1/3i0JGmrZcy33tUsJ1hte\nfZuCp37HCVYQvcEEE/MWB4urFnle+CnBYzHJ3h9Y7fmBrY+so+CvhTKz8igm7Use\nR+EVsOeEB5MhoV+pmX5IQFne6QRPnbtnZIR6ZD96EQKBgQD+qotafxWpMBEIs4Ve\nV6sQXdTfGmWPr7uRK6B1bkz3gaEcCQ+FSu2JtfjKK4VjtzTucYULI+P9dfBVYuKQ\nMTPeRm2cblL5MWPvDisKNiBD4y+u0sqx+eb1AZz682CkgDEPv8tnKWxEJWI6JF2c\nqudlim7Iy+5rwGJhWfFIE9DsxQKBgQDh+pOirBJ5WaPCRIFXI74vZk4pwB7JG3Jm\nIC2wPUEGpvWUqkRIHi0MFKRmV+kVLmwCqIUe3+hlULB4ubbyD/z43Ubw8v1CHrjt\nWCohL0cL+F7BySbme+oMzzAgOLPMOPk75tGDiibKDRkbTvPm04i7/QHDdQFSyqIt\niA/QO2Rp0QKBgBCnmqF6ejIsYJDPHMPEu/1ABbHpigbRmVSvI7lKU2JEagLpXMh8\n0/gTnIesPPb+fkmxxt+pozlqQyNyahq//QJmXLjERkzhvAVgSdRLIeUOsImgY30s\nOLyBNID89a8Mayj6hBTlEp2KTFg9FJowWx265e/f1mHZnRV8yljKYvl5AoGAVoil\n0D0kNePlmZayELRXN79tXv96yngALqtT05EhPXLhx7QLwbIMffvJmIdBciL8qWfu\n0gvb6jAj45b6P2dv77yMVeg2owMwvXJtb5ezFRpe7sYgZ1I8JfuQ6kXMU//dMNsK\nj9xvTiAF5Tcuns2SJqqT6kz73MBLqjPYGl0j7oECgYBvhRj6a7NeBgQ04m6z7Jfh\ncXlXd0eurYP4A9QTWlw5S7I1iNYggCWq8aPeVCHcUmD3dOrwuOKAKb4zE41N0exK\nSAKgkti90sOr6H0JrFgRVTLVBd6C5+VIDxrznue5GUXoFPJdrkCYElkllzU5gdnK\nbfZiriOTCiEdYpvqgFB7+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@skill-gap-detector.iam.gserviceaccount.com",
+  "client_id": "108221112802904370547",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40skill-gap-detector.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
