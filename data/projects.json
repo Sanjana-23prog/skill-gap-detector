@@ -1,1 +1,27 @@
-
+{
+  "python": [
+    "Build a Web Scraper using Python",
+    "Create a Chatbot using Python",
+    "Develop a Simple Calculator App"
+  ],
+  "sql": [
+    "Student Database Management System",
+    "Library Management Database",
+    "Sales Data Analysis using SQL"
+  ],
+  "ml": [
+    "Spam Email Classifier",
+    "Movie Recommendation System",
+    "House Price Prediction Model"
+  ],
+  "dsa": [
+    "Build a Sorting Visualizer",
+    "Implement a Graph Traversal Visualizer",
+    "Create a Pathfinding Algorithm Simulator"
+  ],
+  "git": [
+    "Collaborative Open Source Project",
+    "Version Controlled To-Do App",
+    "Team Project with Branching Workflow"
+  ]
+}
